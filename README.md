@@ -1,1 +1,1 @@
- Wellcom to Alx school 
+Welcom to Alx school
